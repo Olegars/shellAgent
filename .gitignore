@@ -1,0 +1,6 @@
+agent/.venv/
+traces/
+build/
+**/__pycache__/
+*.pyc
+.qmlls.ini
